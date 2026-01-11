@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi 👋, I'm Elvi Rose Joshi</h1>
-  <h3>Analyze, Visualize, Strategize | CSE Student | Aspiring Data Analyst</h3>
+  <h3>Analyze, Visualize, Strategize | CSE Student </h3>
 </div>
 
 
